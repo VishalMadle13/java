@@ -1,0 +1,175 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Q01",
+            "request": "launch",
+            "mainClass": "Q01",
+            "projectName": "PL2 java_3287a2b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Checkage",
+            "request": "launch",
+            "mainClass": "ExceptionHandling.Checkage",
+            "projectName": "PL2 java_3287a2b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Minbalance",
+            "request": "launch",
+            "mainClass": "ExceptionHandling.Minbalance",
+            "projectName": "PL2 java_3287a2b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch DeleteFile",
+            "request": "launch",
+            "mainClass": "JAVA_FILE_HANDLING.DeleteFile",
+            "projectName": "PL2 java_3287a2b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReadFile",
+            "request": "launch",
+            "mainClass": "JAVA_FILE_HANDLING.ReadFile",
+            "projectName": "PL2 java_3287a2b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tut01",
+            "request": "launch",
+            "mainClass": "JAVA_FILE_HANDLING.Tut01",
+            "projectName": "PL2 java_3287a2b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch WriteFile",
+            "request": "launch",
+            "mainClass": "JAVA_FILE_HANDLING.WriteFile",
+            "projectName": "PL2 java_3287a2b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arraylist",
+            "request": "launch",
+            "mainClass": "Java_Collection.Arraylist",
+            "projectName": "PL2 java_3287a2b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Qfifth",
+            "request": "launch",
+            "mainClass": "PL2_ASSIGNMENT_03.Qfifth",
+            "projectName": "PL2 java_3287a2b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Qfirst",
+            "request": "launch",
+            "mainClass": "PL2_ASSIGNMENT_03.Qfirst",
+            "projectName": "PL2 java_3287a2b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Qfourth",
+            "request": "launch",
+            "mainClass": "PL2_ASSIGNMENT_03.Qfourth",
+            "projectName": "PL2 java_3287a2b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Qsecond",
+            "request": "launch",
+            "mainClass": "PL2_ASSIGNMENT_03.Qsecond",
+            "projectName": "PL2 java_3287a2b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Qsixth",
+            "request": "launch",
+            "mainClass": "PL2_ASSIGNMENT_03.Qsixth",
+            "projectName": "PL2 java_3287a2b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Qthird",
+            "request": "launch",
+            "mainClass": "PL2_ASSIGNMENT_03.Qthird",
+            "projectName": "PL2 java_3287a2b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Qeighth",
+            "request": "launch",
+            "mainClass": "PL2_ASSIGNMENT_03.Useful.Qeighth",
+            "projectName": "PL2 java_3287a2b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q1",
+            "request": "launch",
+            "mainClass": "PL2_ASSIGNMENT_04.Q1",
+            "projectName": "PL2 java_3287a2b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q2",
+            "request": "launch",
+            "mainClass": "PL2_ASSIGNMENT_04.Q2",
+            "projectName": "PL2 java_3287a2b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q3",
+            "request": "launch",
+            "mainClass": "PL2_ASSIGNMENT_04.Q3",
+            "projectName": "PL2 java_3287a2b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q4",
+            "request": "launch",
+            "mainClass": "PL2_ASSIGNMENT_04.Q4",
+            "projectName": "PL2 java_3287a2b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q5",
+            "request": "launch",
+            "mainClass": "PL2_ASSIGNMENT_04.Q5",
+            "projectName": "PL2 java_3287a2b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q8",
+            "request": "launch",
+            "mainClass": "PL2_ASSIGNMENT_04.Q8",
+            "projectName": "PL2 java_3287a2b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q01",
+            "request": "launch",
+            "mainClass": "PL2_ASSIGNMENT_05.Q01",
+            "projectName": "PL2 java_3287a2b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q3(1)",
+            "request": "launch",
+            "mainClass": "PL2_ASSIGNMENT_05.Q3",
+            "projectName": "PL2 java_3287a2b3"
+        }
+    ]
+}

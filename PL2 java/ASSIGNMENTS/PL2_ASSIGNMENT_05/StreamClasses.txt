@@ -1,0 +1,37 @@
+# java.io package is used for file handling
+
+Stream:
+       It is sequence of data composed of byte
+
+
+InputStreamClass
+
+int read()          : this method returns an integer , an integral representation of the next available byte of the input.
+
+int read(byte [] b) :  used to read the specified buffer length bytes from the input
+
+int read(byte [] b, int off, int len) : used to read len bytes from the buffer starting at off 
+
+int available()     : returns number of bytes that are available to read
+
+long skip(long n)   : skip n bytes of the input stream & returns total number of bytes that are skipped
+
+void mark(int limit): to mark the current position in the input stream until the specified limit is read
+
+void reset()        : to reset the input pointer to the previously set mark
+
+boolean markSupported(): returns true if mark is supported
+
+void close()        : to close the input source.
+
+
+OutputStreamClass
+void write(int b) used to write a byte to the current output stream
+
+void writebyte [] b) used to write an array of byte to the current output stream
+
+void write(byte [] b, int off, int len) to write len bytes to the output stream from the b starting at specified offset.
+
+void flush() flushes the current output stream and writes pending buffered bytes
+
+void close() used to close the current output stream
